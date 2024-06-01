@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d683ee7.css",
+    "main.js": "/static/js/main.afda0333.js",
+    "static/media/Raleway-Light.ttf": "/static/media/Raleway-Light.58bcdae09d89ccd8d086.ttf",
+    "static/media/Raleway-Bold.ttf": "/static/media/Raleway-Bold.18960343b3da49bfd353.ttf",
+    "static/media/Group.png": "/static/media/Group.1e754c7116c50bdc0332.png",
+    "static/media/Group 42.png": "/static/media/Group 42.97374fb9fc7d1f2f81ac.png",
+    "static/media/Rectangle 68 (1).png": "/static/media/Rectangle 68 (1).56c259345f9d4a881be8.png",
+    "static/media/Group 39.png": "/static/media/Group 39.170948ded590990d4ab2.png",
+    "static/media/Group 41.png": "/static/media/Group 41.15523c2ecb798a5cc61d.png",
+    "static/media/Group 28.png": "/static/media/Group 28.f0317a51a5961678805a.png",
+    "static/media/Group 40.png": "/static/media/Group 40.0c32a255685cd40ba055.png",
+    "index.html": "/index.html",
+    "main.1d683ee7.css.map": "/static/css/main.1d683ee7.css.map",
+    "main.afda0333.js.map": "/static/js/main.afda0333.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d683ee7.css",
+    "static/js/main.afda0333.js"
+  ]
+}
